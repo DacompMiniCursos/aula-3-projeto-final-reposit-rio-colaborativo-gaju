@@ -1,3 +1,0 @@
-inicializando a home
-incrementando a home 1,2,3 
-testando a home
